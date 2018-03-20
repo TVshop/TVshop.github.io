@@ -1,0 +1,17 @@
+.header{
+	width: 1500px;
+	height: 350px;
+	margin:0 auto;
+	background: #abeafa url(../img/header.jpg) no-repeat;
+}
+.main{
+	margin-top: 0;
+}
+.right_block{
+	margin-top: 148px;
+}
+.description_full{
+	width: 871px;
+	margin-left: 664px;
+
+}
